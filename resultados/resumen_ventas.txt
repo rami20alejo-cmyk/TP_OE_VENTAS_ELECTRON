@@ -1,0 +1,6 @@
+RESUMEN DE ANALISIS DE VENTAS 2024
+==================================
+Ventas Totales del Ano: $ 1812114
+Monto Mas Alto Registrado: $ 8960
+
+Resultados mensuales guardados correctamente.
